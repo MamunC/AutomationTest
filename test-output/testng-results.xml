@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21614" started-at="2018-10-15T02:32:44Z" finished-at="2018-10-15T02:33:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21614" started-at="2018-10-15T02:32:44Z" finished-at="2018-10-15T02:33:05Z">
+      <class name="page.KindlePaperwhitePageTest">
+        <test-method status="PASS" signature="initializeTestParameters(org.testng.ITestContext)[pri:0, instance:page.KindlePaperwhitePageTest@1677d1]" name="initializeTestParameters" is-config="true" duration-ms="7" started-at="2018-10-14T22:32:44Z" finished-at="2018-10-14T22:32:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5fcacc0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestParameters -->
+        <test-method status="PASS" signature="setupClassLogger()[pri:0, instance:page.KindlePaperwhitePageTest@1677d1]" name="setupClassLogger" is-config="true" duration-ms="0" started-at="2018-10-14T22:32:44Z" depends-on-methods="tests.template.AutomationTemplate.initializeTestParameters" finished-at="2018-10-14T22:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClassLogger -->
+        <test-method status="PASS" signature="setupTestPlatform()[pri:0, instance:page.KindlePaperwhitePageTest@1677d1]" name="setupTestPlatform" is-config="true" duration-ms="3697" started-at="2018-10-14T22:32:44Z" depends-on-methods="tests.template.AutomationTemplate.setupClassLogger" finished-at="2018-10-14T22:32:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTestPlatform -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:page.KindlePaperwhitePageTest@1677d1]" name="setup" is-config="true" duration-ms="3285" started-at="2018-10-14T22:32:47Z" finished-at="2018-10-14T22:32:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testDefaultQuantitySelectValue()[pri:0, instance:page.KindlePaperwhitePageTest@1677d1]" name="testDefaultQuantitySelectValue" duration-ms="14514" started-at="2018-10-14T22:32:51Z" finished-at="2018-10-14T22:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDefaultQuantitySelectValue -->
+        <test-method status="PASS" signature="tearDownTestEnvironment()[pri:0, instance:page.KindlePaperwhitePageTest@1677d1]" name="tearDownTestEnvironment" is-config="true" duration-ms="94" started-at="2018-10-14T22:33:05Z" finished-at="2018-10-14T22:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTestEnvironment -->
+      </class> <!-- page.KindlePaperwhitePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
