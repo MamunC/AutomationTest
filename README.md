@@ -7,4 +7,6 @@ Page test objects are put in page package under src/test/java
 
 Functional test is called TC_VerifyLoginBeforeCheckout.java
 
-TODO - Setup logging
+TODO 
+- Setup logging
+- Retrieve values from properties file instead of hardcoding
